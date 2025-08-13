@@ -14,11 +14,11 @@ const Cards = () => {
             alt="/"
           />
           <h2 className="text-2xl font-bold text-center py-8">Single User</h2>
-          <p className="text-center text-4xl font-bold">Ksh 800</p>
+          <p className="text-center text-4xl font-bold">Ksh. 7,000</p>
           <div className="text-center font-medium">
             <p className="py-2 border-b mx-8 mt-8">500 GB Storage</p>
             <p className="py-2 border-b mx-8">1 Granted User</p>
-            <p className="py-2 border-b mx-8">Send up to 2 GB</p>
+            <p className="py-2 border-b mx-8">Send up to 4 GB</p>
           </div>
           <button className="bg-cyan-500 w-[200px] rounded-md font-medium my-6 mx-auto px-6 py-3 text-black ">Start Trial</button>
         </div>
@@ -28,12 +28,12 @@ const Cards = () => {
             src={Double}
             alt="/"
           />
-          <h2 className="text-2xl font-bold text-center py-8">Single User</h2>
-          <p className="text-center text-4xl font-bold">Ksh 800</p>
+          <h2 className="text-2xl font-bold text-center py-8">Two Users</h2>
+          <p className="text-center text-4xl font-bold">Ksh. 10,000</p>
           <div className="text-center font-medium">
-            <p className="py-2 border-b mx-8 mt-8">500 GB Storage</p>
-            <p className="py-2 border-b mx-8">1 Granted User</p>
-            <p className="py-2 border-b mx-8">Send up to 2 GB</p>
+            <p className="py-2 border-b mx-8 mt-8">1800 GB Storage</p>
+            <p className="py-2 border-b mx-8">4 Granted User</p>
+            <p className="py-2 border-b mx-8">Send up to 10 GB</p>
           </div>
           <button className="bg-black w-[200px] rounded-md font-medium my-6 mx-auto px-6 py-3 text-cyan-500 ">Start Trial</button>
         </div>
@@ -43,12 +43,12 @@ const Cards = () => {
             src={Tripple}
             alt="/"
           />
-          <h2 className="text-2xl font-bold text-center py-8">Single User</h2>
-          <p className="text-center text-4xl font-bold">Ksh 800</p>
+          <h2 className="text-2xl font-bold text-center py-8">Multiple Users</h2>
+          <p className="text-center text-4xl font-bold">Ksh. 15,000</p>
           <div className="text-center font-medium">
-            <p className="py-2 border-b mx-8 mt-8">500 GB Storage</p>
-            <p className="py-2 border-b mx-8">1 Granted User</p>
-            <p className="py-2 border-b mx-8">Send up to 2 GB</p>
+            <p className="py-2 border-b mx-8 mt-8">2500 GB Storage</p>
+            <p className="py-2 border-b mx-8">10 Granted User</p>
+            <p className="py-2 border-b mx-8">Send up to 20 GB</p>
           </div>
           <button className="bg-cyan-500 w-[200px] rounded-md font-medium my-6 mx-auto px-6 py-3 text-black ">Start Trial</button>
         </div>
